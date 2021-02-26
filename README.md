@@ -9,4 +9,4 @@
 
 ### [YouTube Tutorial](https://www.youtube.com/watch?v=R_dwUR2HbZM&list=PL0xYQ08Z9gFpBNGc71YYX4VZsA1yaP0tu&index=4)
 
-### [live project](https://webd-with-sg.github.io/JavaScript-Carousel/)
+### [live project](https://sg-codes.github.io/JavaScript-Carousel/)
